@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "flash_list",
+    "slug": "flash_list",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
